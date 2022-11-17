@@ -1,0 +1,20 @@
+/* penulisan margin dan padding */
+.margin{
+    /* keseluruhan */
+    margin:20px;
+    /* satuan */
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    margin-right: 40px;
+
+    /* arah jarum jam */
+    margin:10px 20px 30px 40px;
+    /* atas bawah, kiri kanan */
+    margin:20px 50px;
+    /* auto buat ketengah */
+    margin:10px auto;
+
+
+    /* margin coddingan nya sama kek padding,cuman padding gak ada auto nya */
+}
